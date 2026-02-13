@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aliya602
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning different languages (html, css, etc.)
+- 🌱 I’m currently relearning python
 
 
 <!---
