@@ -15,7 +15,7 @@ I'm a passionate Python developer learning through building real projects. I lov
  -   [To-Do List](https://github.com/Aliya602/To-Do-List.git) | Task manager with save/load | CRUD, File I/O
  -    [Password Generator](https://github.com/Aliya602/Password-generator.git) | Secure password creation | Strings, random
  -    [Countdown Timer](https://github.com/Aliya602/Countdown-Timer.git) | Pomodoro style timer | Time, threading |
- -     [Guessing Game](https://github.com/Aliya602/Guessing-Game.git) | Number guessing game | Loops, conditionals |
+ - [Guessing Game](https://github.com/Aliya602/Guessing-Game.git) | Number guessing game | Loops, conditionals |
  
 
 ## 📫Connect with me
