@@ -21,7 +21,6 @@ I'm a passionate Python developer learning through building real projects. I lov
 ## 📫Connect with me
 - GitHub: [@Aliya602](https://github.com/Aliya602)
 
---->
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@AliX3/30-nites-of-code)  
   ![@AliX3 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=AliX3)
