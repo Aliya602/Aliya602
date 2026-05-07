@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aliya602
+- 👋 Hi, I’m @Aliya
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently relearning python
 
