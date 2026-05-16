@@ -20,7 +20,7 @@ I'm a passionate Python developer learning through building real projects. I lov
  -  [Web-scraper](https://github.com/Aliya602/Web-scraper.git) | web scaper | extracts quotes, quthors, tags, and author birthdays |
  -  [qr-code](https://github.com/Aliya602/qr-code-generator.git) | QR Code generator |generates QR codes from text or URLs and saves them as PNG images.
  -  [Hangman-game](https://github.com/Aliya602/Hangman-game.git) |Hangman Game |classic Hangman word-guessing game built in Python with ASCII art, color output, and multiple word categories.
-
+ -  [URL Shortener](https://github.com/Aliya602/URL_Shortener.git) |URL Shortener| URL shorteners using the TinyUrl API - from simple to advanced 
 ## 📫Connect with me
 - GitHub: [@Aliya602](https://github.com/Aliya602)
 
